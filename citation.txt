@@ -1,0 +1,8 @@
+@article{REPO-356,
+    author = "Jin, Di and Jin, Zhijing and Zhou, Joey and Szolovits, Peter",
+    journal = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    pages = "8018-8025",
+    title = "{Is Bert Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment}",
+    volume = "34",
+    year = "2020"
+}
